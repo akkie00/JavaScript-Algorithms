@@ -1,6 +1,5 @@
-###What is this Repo? 
-    This repo has various alogirthms I will be 
-    solving in JavaScript with the latest ES6+ syntax.
+#### What is this Repo about? 
+    This repo has various alogirthms I will be solving in JavaScript with the latest ES6+ syntax
 
 #### A little about the Author
 
