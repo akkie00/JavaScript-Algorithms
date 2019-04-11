@@ -9,6 +9,8 @@
 
 function repeatAString (str, num){
     let repeatedString = ''
+    // repeatedString = str.repeat(num);
+
     while(num > 0){
         console.log('hey')
         // repeatedString = repeatedString.concat(str);
