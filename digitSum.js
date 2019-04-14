@@ -2,7 +2,7 @@ function sumOfDigits(inputStr){
     
     //setting a regular expression to match the digits in a given string
     let digitExp = /\d+/g;
-    let numArr = inputStr.match(digitExp);
+    let numArr = inputStr.match(digitExp) || [];
     // console.log(numArr)
     //initializing a variable to count the total sum
     let sum = 0;
